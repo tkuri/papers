@@ -1,5 +1,5 @@
 # papers
-読んだ論文を[issues](https://github.com/tkuri/papers/issues)にまとめています。
+読んだ論文を[Issues](https://github.com/tkuri/papers/issues)にまとめています。
 データセットなども。
 
 [arXivTimes](https://github.com/arXivTimes/arXivTimes)リスペクト。
