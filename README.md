@@ -1,4 +1,4 @@
-# papers
+# 論文まとめ
 読んだ論文を[Issues](https://github.com/tkuri/papers/issues)にまとめています。
 データセットなども。
 
@@ -12,4 +12,6 @@
 5. CMOS Image Sensor 
 
 ## 他
-[誰かの役に立つかもしれない図たち](https://github.com/tkuri/graphs)
+- [誰かの役に立つかもしれない図たち](https://github.com/tkuri/graphs)
+- [Qittaで書いた記事](https://qiita.com/kurilab)
+- [はてなブログ(Twitterの技術メモまとめ)](https://klb.hatenablog.com/)
