@@ -11,7 +11,4 @@
 4. Machine Learning
 5. CMOS Image Sensor 
 
-## 他
-- [誰かの役に立つかもしれない図たち](https://github.com/tkuri/graphs)
-- [Qittaで書いた記事](https://qiita.com/kurilab)
-- [はてなブログ(Twitterの技術メモまとめ)](https://klb.hatenablog.com/)
+[はてなブログ(https://klb.hatenablog.com/entry/portal)
