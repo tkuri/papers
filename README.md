@@ -11,4 +11,4 @@
 4. Machine Learning
 5. CMOS Image Sensor 
 
-[はてなブログ(https://klb.hatenablog.com/entry/portal)
+[はてなブログ](https://klb.hatenablog.com/entry/portal)
