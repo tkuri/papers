@@ -19,6 +19,7 @@
 - `MachineLearning`：機械学習関連
 - `Device`：イメージセンサおよびハードウェア関連
 - `Dataset`：データセットを公開しているもの
+- `Survey`：Survey論文等
 
 ## 学会
 - `ICCV/ECCV`：International/European Conference on Computer Vision
