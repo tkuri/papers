@@ -17,8 +17,6 @@
 - `ComputerGraphics`：CG関連
 - `MachineLearning`：機械学習関連
 - `Device`：イメージセンサおよびハードウェア関連
-- `Dataset`：データセットを公開しているもの
-- `Survey`：Survey論文等
 
 ## 学会
 - `ICCV/ECCV`：International/European Conference on Computer Vision
@@ -33,6 +31,10 @@
 
 ## 学術誌
 - `Nature`：Nature (Journal)
+
+## 追加情報
+- `Dataset`：データセットを公開しているもの
+- `Survey`：Survey論文等
 
 ## 公開年度
 - `2016`~`2020`：1年毎
