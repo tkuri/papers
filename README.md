@@ -24,6 +24,7 @@
 - `ICCP`：International Conference on Computational Photography
 - `SIGGRAPH`：Special Interest Group on Computer GRAPHics
 - `SIGGRAPH ASIA`：Special Interest Group on Computer GRAPHics ASIA
+- `3DV`: International Conference on 3D Vision
 - `AAAI`：Association for the Advancement of Artificial Intelligence
 - `ICLR`：International Conference on Learning Representations
 - `NeurIPS`：Conference on Neural Information Processing Systems
