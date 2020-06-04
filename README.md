@@ -29,6 +29,7 @@
 - `ICLR`：International Conference on Learning Representations
 - `NeurIPS`：Conference on Neural Information Processing Systems
 - `ICRA`：International Conference on Robotics and Automation
+- `IROS`：International Conference on Intelligent Robots and Systems
 
 ## 学術誌
 - `Nature`：Nature (Journal)
