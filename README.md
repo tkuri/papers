@@ -27,6 +27,7 @@
 - `3DV`: International Conference on 3D Vision
 - `AAAI`：Association for the Advancement of Artificial Intelligence
 - `ICLR`：International Conference on Learning Representations
+- `ICML`：International Conference on Machine Learning
 - `NeurIPS`：Conference on Neural Information Processing Systems
 - `ICRA`：International Conference on Robotics and Automation
 - `IROS`：International Conference on Intelligent Robots and Systems
