@@ -40,6 +40,6 @@
 - `Survey`：Survey論文等
 
 ## 公開年度
-- `2016`~`2020`：1年毎
+- `201`~`2020`：1年毎
 
 [はてなブログ](https://klb.hatenablog.com/entry/portal)
