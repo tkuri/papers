@@ -34,12 +34,13 @@
 
 ## 学術誌
 - `Nature`：Nature (Journal)
+- `Light`：Light: Science & Applications (Journal)
 
 ## 追加情報
 - `Dataset`：データセットを公開しているもの
 - `Survey`：Survey論文等
 
 ## 公開年度
-- `201`~`2020`：1年毎
+- `2014`~`2020`：1年毎
 
 [はてなブログ](https://klb.hatenablog.com/entry/portal)
