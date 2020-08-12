@@ -35,6 +35,7 @@
 ## 学術誌
 - `Nature`：Nature (Journal)
 - `Light`：Light: Science & Applications (Journal)
+- `Optics Express`： Optics Express (Journal)
 
 ## 追加情報
 - `Dataset`：データセットを公開しているもの
