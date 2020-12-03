@@ -41,6 +41,13 @@
 - `Dataset`：データセットを公開しているもの
 - `Survey`：Survey論文等
 
+## 技術
+- `Polarization`：偏光
+- `LightField`：Hyper Spectral / Multi Spectral
+- `LiDAR (dToF/iToF)`：LiDAR (dToF/iToF) 
+- `EventCamera`：Event Camera (Dynamic Vision Image Sensor...) 
+- `BRDF`：BRDF, BSDF...
+
 ## 公開年度
 - `2014`~`2020`：1年毎
 
