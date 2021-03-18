@@ -39,7 +39,7 @@
 - `Optics Express`： Optics Express
 - `TPAMI`： IEEE Transactions on Pattern Analysis and Machine Intelligence
 - `TIP`： IEEE Transactions on Image Processing
-- 
+
 ## 追加情報
 - `Dataset`：データセットを公開しているもの
 - `Survey`：Survey論文等
