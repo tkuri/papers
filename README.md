@@ -34,10 +34,12 @@
 - `IROS`：International Conference on Intelligent Robots and Systems
 
 ## 学術誌
-- `Nature`：Nature (Journal)
-- `Light`：Light: Science & Applications (Journal)
-- `Optics Express`： Optics Express (Journal)
-
+- `Nature`：Nature
+- `Light`：Light: Science & Applications
+- `Optics Express`： Optics Express
+- `TPAMI`： IEEE Transactions on Pattern Analysis and Machine Intelligence
+- `TIP`： IEEE Transactions on Image Processing
+- 
 ## 追加情報
 - `Dataset`：データセットを公開しているもの
 - `Survey`：Survey論文等
