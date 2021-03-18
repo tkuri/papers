@@ -45,13 +45,11 @@
 - `Survey`：Survey論文等
 
 ## 技術
-- `Polarization`：偏光
-- `LightField`：Hyper Spectral / Multi Spectral
+- `Polarization`：偏光系
+- `LightField`：ライトフィールド系
+- `Hyper Spectral / Multi Spectral`：分光系
 - `LiDAR (dToF/iToF)`：LiDAR (dToF/iToF) 
 - `EventCamera`：Event Camera (Dynamic Vision Image Sensor...) 
 - `BRDF`：BRDF, BSDF...
-
-## 公開年度
-- `2014`~`2020`：1年毎
 
 [はてなブログ](https://klb.hatenablog.com/entry/portal)
